@@ -6,10 +6,10 @@
   <img src="img/top.svg">
   <img src="img/bottom.svg">
 </div>
-#### Todo
-- Firmware
-- Mounting Points
-- Plate/Case
-- Panelized PCB
+####Todo
+-Firmware
+-Mounting Points
+-Plate/Case
+-Panelized PCB
 
 For questions or suggestions, open issue or contact jack@lzycat.xyz
